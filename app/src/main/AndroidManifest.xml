@@ -13,6 +13,30 @@
         android:theme="@style/Theme.MyLibrary"
         tools:targetApi="31">
         <activity
+            android:name=".TurgenevActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BronteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LondonActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BowenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MarrsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BrownActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RemarqueActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SapkovskiyActivity"
+            android:exported="false" />
+        <activity
             android:name=".KingActivity"
             android:exported="false" />
         <activity
